@@ -14,3 +14,5 @@ This is a simple **Machine Learning Web App** built with **Gradio** and a traine
 ├── test.csv # Test dataset
 └── README.md # Project documentation
 
+👉 **Try the App here:**  [https://huggingface.co/spaces/ruchira01/titanic_predictor]
+
