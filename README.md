@@ -16,3 +16,8 @@ This is a simple **Machine Learning Web App** built with **Gradio** and a traine
 
 👉 **Try the App here:**  [https://huggingface.co/spaces/ruchira01/titanic_predictor]
 
+## Tech Stack
+- Python
+- Streamlit
+- Hugging Face Spaces
+
